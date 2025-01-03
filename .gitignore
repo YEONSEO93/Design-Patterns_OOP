@@ -11,3 +11,4 @@ obj/
 *.nuget.dgspec.json
 DesignPatternsInCSharp/bin/
 DesignPatternsInCSharp/obj/
+.codegpt/
