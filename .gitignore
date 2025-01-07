@@ -12,3 +12,5 @@ obj/
 DesignPatternsInCSharp/bin/
 DesignPatternsInCSharp/obj/
 .codegpt/
+
+.codegpt
